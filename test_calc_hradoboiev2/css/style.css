@@ -1,0 +1,128 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*#mocha{*/
+/*    margin-top:1500px!important;*/
+/*}*/
+.calc {
+    margin-top: 150px;
+    width: 250px;
+    height: 300px;
+    background: #779891;
+    border-radius: 20px;
+    padding: 15px
+}
+
+#talo,
+#talo input {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: right;
+    height: 40px;
+    padding: 5px 0 ;
+}
+
+
+.btn_op{
+    width:25%;
+}
+button {
+    outline: 0
+}
+#talo {
+    border: 2px solid #49D3A4;
+    padding-right: 5px;
+    cursor: not-allowed;
+    background: #908a8a9e;
+    color: #fff;
+    font-size: 1em;
+    overflow: hidden
+}
+
+#talo:focus {
+    outline: 0
+}
+
+.calc__menu {
+    margin-top: 20px;
+
+}
+
+.calc__row {
+    display: flex;
+    justify-content: center;
+    align-content: space-between
+}
+.bck{
+    border-radius: 5px;
+    background: #49D3A4;
+}
+
+.bck:hover{
+    background: #9AECD0;
+}
+.calc__row .btn {
+    cursor: pointer;
+    width: 25%;
+    height: 40px;
+    color: #fff;
+    border: 1px solid #000000;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.btn_op {
+    cursor:pointer;
+    color: #ffffff;
+    border: 1px solid #000000;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+#dub{
+    width:25%;
+    cursor:pointer;
+    color: #fff;
+    border: 1px solid #000000;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+
+.calc__menu .calc__row:last-child .bigbuttonend:first-child ,.calc__menu .calc__row:last-child .bigbuttonend:last-child{
+    width: 50%;
+    cursor:pointer;
+    border: 1px solid #000000;
+    font-weight: 500;
+    font-size: 1.2em;
+    height: 44px;
+    color: #fff;
+}
+
+.calc__menu .calc__row:nth-child(4) .btn:first-child{
+    width:50%;
+}
+
+.calc__output {
+    position: relative;
+    transition: .2s;
+    padding-top: 0
+}
+
+.calc__output #output__input-memory {
+    position: absolute;
+    background: 0 0;
+    border: none;
+    color: #ababab;
+    left: 0;
+    top: 4px;
+    height: 18px;
+    font-size: 12px;
+    transition: .3s
+}
+
+.calc__output #output__input.active {
+    padding-top: 18px;
+    transition: .1s
+}

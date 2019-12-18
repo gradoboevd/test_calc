@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <title>Калькулятор</title>
+    <!-- <script>
+        function press(){
+            alert('Клавиатура отключена')
+            return false;
+        }
+
+        document.onkeydown = press;
+    </script> -->
+
+
+</head>
+<body>
+
+
+<div class="calc" id="calc">
+
+    <div class="out" id="out">
+        <input type="text" class="tablo" id="talo" readonly value="0" >
+    </div>
+    <div class="calc__menu">
+        <div class="calc__row">
+            <button class="btn bck" id="1">1</button>
+            <button class="btn bck" id="2">2</button>
+            <button class="btn bck" id="3">3</button>
+            <button class="btn_op bck" id="divideBtn">&#247;</button>
+        </div>
+        <div class="calc__row">
+            <button class="btn bck" id="4">4</button>
+            <button class="btn bck" id="5">5</button>
+            <button class="btn bck" id="6">6</button>
+            <button class="btn_op bck" id="multiplyBtn">&#215</button>
+        </div>
+        <div class="calc__row">
+            <button class="btn bck" id="7">7</button>
+            <button class="btn bck"  id="8">8</button>
+            <button class="btn bck" id="9">9</button>
+            <button class="btn_op bck" id="minusBtn">-</button>
+        </div>
+        <div class="calc__row">
+            <button class="bigbutton btn bck" id="0">0</button>
+            <button class="btn1 bck" id="dub">.</button>
+            <button class="btn_op bck" id="plusBtn">+</button>
+        </div>
+        <div class="calc__row">
+            <button class="bigbuttonend bck" id="equally">=</button>
+            <button class="bigbuttonend bck" id="del">C</button>
+        </div>
+    </div>
+    <script src="js/main.js"> </script>
+    <script src="test/test.js"> </script>
+</body>
+</html>
