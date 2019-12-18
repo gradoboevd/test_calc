@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\bin\Debug\Calc_CSharpe.exe.config
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\bin\Debug\Calc_CSharpe.exe
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\bin\Debug\Calc_CSharpe.pdb
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\obj\Debug\Calc_CSharpe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\obj\Debug\Calc_CSharpe.Form1.resources
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\obj\Debug\Calc_CSharpe.Properties.Resources.resources
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\obj\Debug\Calc_CSharpe.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\obj\Debug\Calc_CSharpe.exe
+C:\Users\User\Desktop\Calc_CSharpe\Calc_CSharpe\obj\Debug\Calc_CSharpe.pdb
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\bin\Debug\Calc_CSharpe.exe.config
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\bin\Debug\Calc_CSharpe.exe
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\bin\Debug\Calc_CSharpe.pdb
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.csprojAssemblyReference.cache
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.Form1.resources
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.Properties.Resources.resources
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.csproj.GenerateResource.cache
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.exe
+C:\Users\ИванТихончук\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.pdb
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\bin\Debug\Calc_CSharpe.exe.config
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\bin\Debug\Calc_CSharpe.exe
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\bin\Debug\Calc_CSharpe.pdb
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.csprojAssemblyReference.cache
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.Form1.resources
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.Properties.Resources.resources
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.csproj.GenerateResource.cache
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.exe
+C:\Users\Danya\Desktop\Calculator C#\Calc_CSharpe\obj\Debug\Calc_CSharpe.pdb
